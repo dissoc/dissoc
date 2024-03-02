@@ -1,1 +1,6 @@
-hi
+welcome friends!
+
+feel free to reach out to me:
+#+BEGIN_SRC clojure
+(apply str (reverse '("me" "." "dissoc" "@" "mail")))
+#+END_SRC
